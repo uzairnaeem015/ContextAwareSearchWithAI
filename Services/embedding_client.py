@@ -1,5 +1,4 @@
 from langchain_google_vertexai import VertexAIEmbeddings
-import streamlit as st
 
 class EmbeddingClient:
     """
